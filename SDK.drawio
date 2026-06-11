@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" modified="2024-05-10T22:55:11.983Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="nzJwe1RY3dZRClV4Rhlm" version="24.4.0" type="device">
+  <diagram name="Trang-1" id="_JYBxxz4nWKZIVTTfM_R">
+    <mxGraphModel dx="1434" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="N7l2FGMv_8zz-chwv2YT-1" value="Khối nguồn" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N7l2FGMv_8zz-chwv2YT-2" value="Khối cảm biến" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N7l2FGMv_8zz-chwv2YT-3" value="Khối xử lý" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N7l2FGMv_8zz-chwv2YT-4" value="Khối cảnh báo" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="600" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N7l2FGMv_8zz-chwv2YT-5" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=20;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="90" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N7l2FGMv_8zz-chwv2YT-6" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=20;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="90" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N7l2FGMv_8zz-chwv2YT-7" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=20;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="90" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N7l2FGMv_8zz-chwv2YT-8" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=20;direction=south;notch=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="391.5" y="167.5" width="20" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="N7l2FGMv_8zz-chwv2YT-10" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=20;direction=south;notch=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="550" y="167.5" width="20" height="65" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
